@@ -1,4 +1,4 @@
-clock skill for pytlas [![Build Status](https://travis-ci.org/atlassistant/pytlas-clock.svg?branch=master)](https://travis-ci.org/atlassistant/pytlas-clock)![License]( https://img.shields.io/badge/License-GPL%20v3-blue.svg)
+clock skill for pytlas [![Build Status](https://travis-ci.org/atlassistant/pytlas-clock.svg?branch=master)](https://travis-ci.org/atlassistant/pytlas-clock) ![License]( https://img.shields.io/badge/License-GPL%20v3-blue.svg)
 ===============================
 
 Gives you time and makes your boiled eggs a success every time.
