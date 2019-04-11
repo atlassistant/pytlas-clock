@@ -17,3 +17,12 @@ Typical sentences
 - time please
 - what's time in new york
 - Start a timer for 10 seconds
+
+Launching tests
+-----------------
+In order to launch tests, you will need to install required dependencies and then launch the test suite with:
+
+```bash
+$ pip install -r requirements_tests.txt
+$ python -m nose --with-coverage --cover-package=clock
+```
