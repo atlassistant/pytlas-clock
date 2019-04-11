@@ -1,0 +1,4 @@
+pytlas~=4.0.2
+geocoder~=1.38.1
+timezonefinderL~=2.0.1
+pytz~=2019.1
