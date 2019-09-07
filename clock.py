@@ -1,4 +1,5 @@
-from pytlas import intent, training, translations, meta, on_agent_created, on_agent_destroyed
+from pytlas import intent, training, translations, meta
+from pytlas.handling.hooks import on_agent_created, on_agent_destroyed
 from datetime import datetime
 from threading import Thread, Timer
 import uuid
